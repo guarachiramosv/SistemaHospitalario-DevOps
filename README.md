@@ -50,6 +50,12 @@ El archivo `.github/workflows/ci.yml` se ejecuta automaticamente en cada `push` 
 
 No se realiza despliegue porque la consigna solicita una prueba basica o compilacion simple como evidencia del uso de CI/CD.
 
+## Evidencias publicadas
+
+- Pull Request fusionado a `develop`: https://github.com/guarachiramosv/SistemaHospitalario-DevOps/pull/1
+- Ejecucion exitosa de GitHub Actions: https://github.com/guarachiramosv/SistemaHospitalario-DevOps/actions/runs/34673683755
+- PDF del portafolio: `output/pdf/portafolio-devops.pdf`
+
 ## Autor
 
 Vania Guarachi Ramos
