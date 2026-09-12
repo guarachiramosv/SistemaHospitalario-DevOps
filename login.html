@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Inicio de sesion - Sistema Hospitalario</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="layout">
+      <section class="login-panel" aria-labelledby="login-title">
+        <div>
+          <p class="eyebrow">Acceso seguro</p>
+          <h1 id="login-title">Sistema Hospitalario</h1>
+          <p class="lead">
+            Ingrese sus credenciales para acceder al modulo administrativo.
+          </p>
+        </div>
+
+        <form class="login-form" action="#" method="post">
+          <label for="usuario">Usuario</label>
+          <input id="usuario" name="usuario" type="text" autocomplete="username" required>
+
+          <label for="password">Contrasena</label>
+          <input id="password" name="password" type="password" autocomplete="current-password" minlength="6" required>
+
+          <button type="submit">Ingresar</button>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
