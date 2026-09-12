@@ -20,6 +20,7 @@ Simular el flujo de trabajo de un equipo que desarrolla un modulo de inicio de s
 .
 |-- .github/workflows/ci.yml
 |-- docs/
+|   |-- Resumen_Tecnico_DevOps.docx
 |   |-- reflexion-critica.md
 |   `-- resumen-tecnico.md
 |-- evidencias/
@@ -58,4 +59,4 @@ No se realiza despliegue porque la consigna solicita una prueba basica o compila
 
 ## Autor
 
-Vania Guarachi Ramos
+Dionicio Guarachi Lima
