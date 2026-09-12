@@ -1,6 +1,6 @@
 # Resumen tecnico: Fundamentos de DevOps
 
-Autor: Dionicio Guarachi Lima
+Autor: Vania Guarachi Ramos
 
 ## 1. Que es DevOps y cuales son sus beneficios
 

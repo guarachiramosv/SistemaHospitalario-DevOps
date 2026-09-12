@@ -59,4 +59,4 @@ No se realiza despliegue porque la consigna solicita una prueba basica o compila
 
 ## Autor
 
-Dionicio Guarachi Lima
+Vania Guarachi Ramos
